@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**ApriliaDewi16/ApriliaDewi16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aprilia Dewi, a Telecommunications Engineering student with a passion for technology and innovation. I love exploring the world of computer networks, cloud computing, and emerging telecommunication technologies.
 
-Here are some ideas to get you started:
+🌐 Overview of Interests: Networking, Cloud Computing, Telecommunications Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals: My aspiration is to work on meaningful projects that contribute to the telecommunications industry and the open-source community.
+
+🔭 Exploring: Currently, I am delving into topics related to software-defined networking (SDN), virtualization technologies, and the integration of AI in telecommunications.
+
+💡 Fascinated By: I find great interest in exploring how the Internet of Things (IoT) is revolutionizing the telecommunications landscape and its potential applications in smart cities.
+
+🌱 Learning: Continuously improving my skills in Python programming, network security, and data analytics to stay at the forefront of technological advancements.
+
+Feel free to explore my repositories and let's connect for exciting collaborations! 📩
